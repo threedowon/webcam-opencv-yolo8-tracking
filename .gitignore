@@ -1,0 +1,18 @@
+# -------------------------
+# Python 관련 무시 항목
+# -------------------------
+__pycache__/
+*.py[cod]
+*$py.class
+*.pyo
+.Python
+build/
+*.egg-info/
+*.egg
+.eggs/
+*.manifest
+*.spec.bak
+# 가상환경 (필요시 주석 해제)
+# venv/
+# .venv/
+# env/

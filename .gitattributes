@@ -1,0 +1,4 @@
+# Python 소스/설정은 일반 텍스트로 유지 (기본 동작)
+*.py text
+*.json text
+*.spec text
